@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">cmt</string>
+    <string name="START">start</string>
+    <string name="settings">settings</string>
+    <string name="highscores">high scores</string>
+    <string name="difficulty_level">difficulty level</string>
+    <string name="SOUND">SOUND</string>
+    <string name="back">back</string>
+    <string name="HELP"> &#160; HELP</string>
+    <string name="help">HELLO! \n
+        In this game you should collect apples and avoid flies. \n
+    If you don\'t catch at least 1 apple or accidentally bump into the fly, the game is over. \n
+        Good luck!
+    </string>
+
+</resources>
